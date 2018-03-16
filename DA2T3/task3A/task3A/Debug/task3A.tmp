@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\oit\Desktop\task 2\task3A\task3A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\oit\Desktop\task 2\task3A\task3A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\oit\Desktop\task 2\task3A\task3A\Debug\task3A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>task3A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>task3A.map</FILE>
+  <FILE>task3A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <begin><FILE>C:\Users\oit\Desktop\task 2\task3A\task3A\main.asm</FILE><LINE>19</LINE></begin>
+  <delay><FILE>C:\Users\oit\Desktop\task 2\task3A\task3A\main.asm</FILE><LINE>24</LINE></delay>
+  <done><FILE>C:\Users\oit\Desktop\task 2\task3A\task3A\main.asm</FILE><LINE>29</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\oit\Desktop\task 5\task5A\task5A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\oit\Desktop\task 5\task5A\task5A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\oit\Desktop\task 5\task5A\task5A\Debug\task5A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>task5A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>task5A.map</FILE>
+  <FILE>task5A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\oit\Desktop\task 5\task5A\task5A\main.asm</FILE><LINE>15</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\oit\Desktop\task 5\task5A\task5A\main.asm</FILE><LINE>28</LINE></EX0_ISR>
+  <HERE><FILE>C:\Users\oit\Desktop\task 5\task5A\task5A\main.asm</FILE><LINE>25</LINE></HERE>
+  <LOOP><FILE>C:\Users\oit\Desktop\task 5\task5A\task5A\main.asm</FILE><LINE>34</LINE></LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
